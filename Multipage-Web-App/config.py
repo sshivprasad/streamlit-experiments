@@ -1,0 +1,4 @@
+URI_SQLITE_DB = "auth.db"
+ADMIN_USERNAME = "admin"
+ADMIN_PWD = "admin"
+USERS_TABLE = "USERS"
